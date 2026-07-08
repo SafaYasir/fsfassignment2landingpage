@@ -26,6 +26,12 @@ body{
 /* ==========================
    HERO SECTION
 ========================== */
+.card-container{
+    width: 100%;
+    max-width: 1600px;
+    height: 100vh;
+    margin: 0 auto;
+}
 
 .hero{
     width:100%;
